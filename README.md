@@ -2,6 +2,10 @@
 
 **Piscine de Programmation C - FISTO Club IT FSO**🇲🇦
 
+## 📋 Les Exercices:
+Pour completer les exercices, visiter le site suivant:
+**URL**: https://jdainireda03-pixel.github.io/pool.github.io/
+
 # C'est Quoi l'Objectif du POOL ?
 
 ## 🎯 Objectifs
@@ -30,9 +34,7 @@
 | 6    | Advanced Recursion | ✅     |
 | 7    | Final Boss         | 🚧     |
 
-## 📋 Les Exercices:
-Pour completer les exercices, visiter le site suivant:
-**URL**: https://jdainireda03-pixel.github.io/pool.github.io/
+
 ## 🤝 Contribution
 
 Ce projet fait partie d'une piscine d'apprentissage. Les contributions externes ne sont pas acceptées, mais les retours sont les bienvenues !
