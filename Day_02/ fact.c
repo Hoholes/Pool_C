@@ -1,6 +1,3 @@
-#include <stdio.h>
-
-
 int recursive_fact(int nb){
     if (nb==2){
         return 2;
